@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1>Latihan git</h1>
-    <button>Submit</button>
+    <button>Submit New Button</button>
 </body>
 </html>
